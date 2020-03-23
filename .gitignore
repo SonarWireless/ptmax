@@ -1,0 +1,5 @@
+*.swp
+src/_airveillance/
+src/plugins/plugin_airveillance.cpp
+src/gmon.out
+.vscode
